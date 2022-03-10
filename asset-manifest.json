@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http//bon317.github.io/React-Task-Tracker/static/css/main.4e758486.chunk.css",
+    "main.js": "/http//bon317.github.io/React-Task-Tracker/static/js/main.66d14237.chunk.js",
+    "main.js.map": "/http//bon317.github.io/React-Task-Tracker/static/js/main.66d14237.chunk.js.map",
+    "runtime-main.js": "/http//bon317.github.io/React-Task-Tracker/static/js/runtime-main.d6863efb.js",
+    "runtime-main.js.map": "/http//bon317.github.io/React-Task-Tracker/static/js/runtime-main.d6863efb.js.map",
+    "static/js/2.8631bc40.chunk.js": "/http//bon317.github.io/React-Task-Tracker/static/js/2.8631bc40.chunk.js",
+    "static/js/2.8631bc40.chunk.js.map": "/http//bon317.github.io/React-Task-Tracker/static/js/2.8631bc40.chunk.js.map",
+    "static/js/3.35f72fc6.chunk.js": "/http//bon317.github.io/React-Task-Tracker/static/js/3.35f72fc6.chunk.js",
+    "static/js/3.35f72fc6.chunk.js.map": "/http//bon317.github.io/React-Task-Tracker/static/js/3.35f72fc6.chunk.js.map",
+    "index.html": "/http//bon317.github.io/React-Task-Tracker/index.html",
+    "static/css/main.4e758486.chunk.css.map": "/http//bon317.github.io/React-Task-Tracker/static/css/main.4e758486.chunk.css.map",
+    "static/js/2.8631bc40.chunk.js.LICENSE.txt": "/http//bon317.github.io/React-Task-Tracker/static/js/2.8631bc40.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6863efb.js",
+    "static/js/2.8631bc40.chunk.js",
+    "static/css/main.4e758486.chunk.css",
+    "static/js/main.66d14237.chunk.js"
+  ]
+}
